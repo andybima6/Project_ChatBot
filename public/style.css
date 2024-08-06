@@ -46,5 +46,6 @@ body {
 }
 
 .chat-screen .messages .message .text {
-	word-wrap: break-word;
+	word-wrap: break-word;  
+	/* meningkatkan keterbacaan pesan dan memastikan tampilan antarmuka pengguna tetap konsisten. */
 }
